@@ -1,0 +1,16 @@
+git init
+
+git add .
+
+git commit -m "Initial commit"
+
+git branch -M main
+
+git remote add origin https://github.com/USERNAME/REPOSITORY.git
+
+git pull origin main --allow-unrelated-histories
+
+git push -u origin main
+
+TOKEN -
+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
